@@ -33,7 +33,7 @@ Function open_file_explorer{
 Set-Alias -name ll -value Get-ChildItem
 Set-Alias -name ex -value explorer.exe
 Set-Alias -name e. -value open_file_explorer
-Set-Alias -name vim -value nvim
+Set-Alias -name vi -value nvim
 #Set-Alias -name npp -value open_npp
 Set-Alias -name ctl -value services.msc
 
